@@ -8,8 +8,8 @@
 #### 4.实现了游戏开头的界面，可以选择和退出游戏
 #### 5.实现了游戏结束的判定，当得分大于等于20分时游戏结束，此时可以选择开始新一轮的游戏或者退出游戏
 
-#### apk压缩文件百度网盘链接(https://pan.baidu.com/s/1Hf6M4A2bH1XeqnBLlyDMGA)
-#### 提取码：lssy
+##### apk压缩文件[百度网盘链接](https://pan.baidu.com/s/1Hf6M4A2bH1XeqnBLlyDMGA)
+##### 提取码：lssy
 
 ##### 若链接打开失败，直接复制此网址到浏览器打开：https://pan.baidu.com/s/1Hf6M4A2bH1XeqnBLlyDMGA
 
