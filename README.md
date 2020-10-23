@@ -12,5 +12,8 @@
 ##### 提取码：lssy
 
 ##### 若链接打开失败，直接复制此网址到浏览器打开：https://pan.baidu.com/s/1Hf6M4A2bH1XeqnBLlyDMGA
+<br/>
+#### 录屏文件链接：https://pan.baidu.com/s/1UiAgYePJEqDbtg7DfgaLUQ 
+#### 提取码：g4jd
 
 
